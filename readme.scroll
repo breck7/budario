@@ -1,0 +1,19 @@
+title budario — Archive
+description boo dario amodei. made by @breckyunits
+permalink index.html
+canonicalUrl https://darioamodei.com/
+buildHtml
+head.scroll
+
+container 1120px
+ id main
+ role main
+ addClass archive
+
+# All posts: 2024 - 2026
+ id archive-heading
+
+BU_ARCHIVE
+clearStack
+homeFooter.scroll
+site.js
