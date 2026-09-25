@@ -1,0 +1,10 @@
+importOnly
+baseUrl https://budario.breck.lol/
+blog.parsers
+bu.scroll
+replace BU_SITE_NAME budario
+replace BU_SITE_DESCRIPTION boo dario amodei. made by @breckyunits
+replace BU_ORIGINAL_LABEL Original blog ↗
+replace BU_POST_DATE printDate
+
+BU_HEAD
