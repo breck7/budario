@@ -1,6 +1,8 @@
 importOnly
 baseUrl https://budario.breck.lol/
+openGraphImage dario-hedcut-v2.png
 blog.parsers
+editBaseUrl https://github.com/breck7/budario/blob/main/
 bu.scroll
 replace BU_SITE_NAME budario
 replace BU_SITE_DESCRIPTION boo dario amodei. made by @breckyunits
